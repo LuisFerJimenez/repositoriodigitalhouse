@@ -1,7 +1,7 @@
-#Hola a todo el mundo
+#Hello Word!!
 
-## Mi nombre es Luis Jiménez
+## I´m Luis Fernando Jiménez
 
-## Hola
+## I´m studying full stack web development in DigitalHouse
 
-## Soy desarrollador
+### I hope that as time passes and with practice, I can improve my code
